@@ -4,7 +4,8 @@
   "description": "POC",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/jawadhasan/node-elasticsearch/issues"
   },
-  "homepage": "https://github.com/jawadhasan/node-elasticsearch#readme"
+  "homepage": "https://github.com/jawadhasan/node-elasticsearch#readme",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.3"
+  }
 }
