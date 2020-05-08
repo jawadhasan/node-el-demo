@@ -1,0 +1,19 @@
+{
+  "name": "elasticsearch",
+  "version": "1.0.0",
+  "description": "POC",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jawadhasan/node-elasticsearch.git"
+  },
+  "author": "jawadhasan hexquote.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jawadhasan/node-elasticsearch/issues"
+  },
+  "homepage": "https://github.com/jawadhasan/node-elasticsearch#readme"
+}
